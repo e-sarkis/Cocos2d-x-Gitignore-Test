@@ -356,3 +356,9 @@ ASALocalRun/
 
 # MSBuild Binary and Structured Log
 *.binlog
+
+# Irrelevant builds
+proj.android/
+proj.android-studio/
+proj.linux/
+proj.ios_mac/
