@@ -359,3 +359,5 @@ ASALocalRun/
 
 # Cocos2d-x
 *.tlog
+*.exp
+*.idb
